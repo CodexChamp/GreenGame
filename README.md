@@ -22,7 +22,7 @@ GAM-305-12908-M01 Digital Game Development
 * **Vehicle Physics & Combat:** Using the car as a weapon to run over zombies (and taking damage from them).
 * **Horde AI Logic:** Simple AI that makes zombies swarm toward the player's position.
 * **Resource/Pickup System:** Collecting fuel or repair kits to keep the run going.
-* **Win/Loss State UI:** A survival timer (Win) and a "Car Destroyed" screen (Loss).
+* **Win/Loss State UI:** "Car Destroyed" screen (Loss)\ A zombies killed count until all zombies killed or a survival timer (Win)
 
 ### 2. Brainstorming on Content (Assets)
 We brainstormed the specific assets needed to make that scenario work:

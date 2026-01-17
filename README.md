@@ -2,7 +2,7 @@
 GAM-305-12908-M01 Digital Game Development
 
 ## Module Two Team Project Plan
-**Contributors:** Rylan Champion, Zachary Roecker, Devin Tidball *(For right now, until Travis and Kenan help)*
+**Contributors:** Rylan, Zachary, Devin, Travisk, Kenan*
 
 ### Team Roles
 * **Team Lead:** Rylan

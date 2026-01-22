@@ -90,3 +90,33 @@ We brainstormed the specific assets needed to make that scenario work:
 
 ### 7. Task Assignment & Reporting
 * **Method:** Google Doc Traceability Matrix
+
+## Module Two Team Project Plan
+**Contributors:** Rylan, Zachary, Devin, Travisk, Kenan*
+How we are testing everything Instead of waiting until the end, we are going to test things as we make them. We want to make sure individual parts (like the car physics or a specific zombie) actually work on their own before we try to put them into the main level.
+
+Weekly Schedule
+
+Monday – Thursday (Building): We work on our assigned features and test them on our own computers first to make sure they aren't totally broken.
+
+Friday (Putting it together): Everyone uploads their work to the main project files. We make a "build" of the game so everyone has the same version.
+
+Saturday/Sunday (Test Day): The whole team plays the game together. We look for bugs, see if the game is actually fun, and check if the new stuff works.
+
+The 3 Main Testing Stages
+
+Play Test (Early on): We are testing the "grey-box" version just to see if the movement and zombies feel good. We aren't worried about graphics yet, just gameplay.
+
+Code Release (During development): Every week we check the Friday build against our list to make sure the new code didn't break the old stuff (regression testing).
+
+Demo (Near the end): We will test a polished "Vertical Slice" of the game to make sure it doesn't crash while we are showing it off to people.
+
+Checklist: What we are testing | Item | What we are looking for | Pass/Fail | | :--- | :--- | :--- | | Controls | Do the keys (WASD) and controller work instantly without lag? | [ ] | | Logic | Does the game actually know when you win or die? | [ ] | | Game Loop | Can you Start -> Play -> Die -> and Restart without it crashing? | [ ] | | Mechanics | Do powerups work? Does the car drive right or does it flip over too much? | [ ] | | Performance | Does the game lag when there are a lot of zombies? | [ ] |
+
+Tracking Bugs & Changes
+
+Updating the Plan: We have meetings on Wednesdays and Saturdays. If we decide to cut a feature or change how something works (like how fast the car goes), we will update our Traceability Matrix so we don't forget.
+
+Reporting Bugs: When we find bugs during our Saturday playtests, we will write them down in the Matrix. We'll note how bad the bug is and how to make it happen again.
+
+Tracking Fixes: We will use the matrix to see what's still broken. Once a bug is fixed in the next Friday build, we will mark it as "Resolved."

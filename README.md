@@ -91,7 +91,7 @@ We brainstormed the specific assets needed to make that scenario work:
 ### 7. Task Assignment & Reporting
 * **Method:** Google Doc Traceability Matrix
 
-## Module Two Team Project Plan
+## Module Three Project Log - Team Development: QA and Testing Plan.
 **Contributors:** Rylan, Zachary, Devin, Travisk, Kenan*
 
 How we are testing everything Instead of waiting until the end, we are going to test things as we make them. We want to make sure individual parts (like the car physics or a specific zombie) actually work on their own before we try to put them into the main level.
@@ -151,5 +151,6 @@ Updating the Plan: We have meetings on Wednesdays and Saturdays. If we decide to
 Reporting Bugs: When we find bugs during our Saturday playtests, we will write them down in the Matrix. We'll note how bad the bug is and how to make it happen again.
 
 Tracking Fixes: We will use the matrix to see what's still broken. Once a bug is fixed in the next Friday build, we will mark it as "Resolved."
+
 
 
